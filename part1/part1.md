@@ -1,4 +1,5 @@
-1a
+##Part1 a
+
 1 values added: 20
 
 2 final result: 20
@@ -11,7 +12,7 @@
 
 6 same reason as question 5, nothing gets printed.
 
-1b
+##Part1 b
 
 1 it will print 3 because the scope of i which is declared as a var is througout the function, thus i will be 3 since i increaments until it is >= prices.length which is 3. Thus i will be 3.
 
